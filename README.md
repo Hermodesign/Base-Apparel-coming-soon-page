@@ -16,7 +16,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Hermodesign/Base-Apparel-coming-soon-page)
-- Live Site URL: [Add live site URL here](https://nimble-faun-8e37e3.netlify.app)
+- Live Site URL: [Add live site URL here](https://stately-melba-727386.netlify.app/)
 
 ### Screenshot
 
